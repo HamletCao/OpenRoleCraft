@@ -1,5 +1,4 @@
 # OpenRoleCraft
-<<<<<<< HEAD
 
 采用数据化的方式创造一个世界，让玩家自由进入活动。
 
@@ -8,6 +7,3 @@
 `Edit by Kier`
 
 test
-=======
-create a open world
->>>>>>> 7c3a78aaee77f133376cf3f2382bdd3962dc9a80
