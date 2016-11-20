@@ -4,7 +4,9 @@
 #include <list>
 
 class Block {
-    
+public:
+    Block();
+    ~Block();
 };
 
 #endif // ORC_BLOCK_H
